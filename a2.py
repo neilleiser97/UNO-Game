@@ -5,7 +5,7 @@ CSSE1001/7030
 Semester 2, 2018
 """
 
-__author__ = "Neil Leiser - 45422470"
+__author__ = "Neil Leiser"
 
 # Write your classes here
 import random
